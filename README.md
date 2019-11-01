@@ -1,2 +1,2 @@
-# anyway_answerme_game
-Preview of Fundamental Python Syntax
+# 답정너게임
+# 
